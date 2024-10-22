@@ -1,2 +1,1 @@
-# Movie_TVShow_Success_Analysis
-The goal of this project is to leverage unsupervised learning techniques to identify trends and patterns in social media discussions that correlate with the success of movies or TV shows.
+The goal of this project is to cluster movies based on similarities in their plot summaries using unsupervised learning techniques. The clusters will help identify hidden genres, themes, or trends across movies that go beyond traditional labels. By analyzing plot summaries, we can group movies with similar storylines and underlying themes, enabling insights into new genres and connections between films.
